@@ -1,1 +1,3 @@
 https://mixisya.herokuapp.com/mixisya/a/36 - Ryuusei Record (TV Ver.).mp3
+https://mixisya.herokuapp.com/さくら/DvD/CDImage.flac
+https://mixisya.herokuapp.com/さくら/DvD/CDImage1.flac
